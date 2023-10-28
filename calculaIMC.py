@@ -1,4 +1,4 @@
-print ("Claculadora IMC para Portfólio Engenharia de Software. Seja Bem vindo a Calculadora de IMC")
+print ("Calculadora IMC para Portfólio Linguagem de Programação. Seja Bem vindo a Calculadora de IMC")
 
 pergunta_nome = input("Qual é o seu nome? " )
 nome = ("Olá" , pergunta_nome)
